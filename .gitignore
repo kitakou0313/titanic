@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 
 data/credit/*
+data/cifar-10-batches-py/*
