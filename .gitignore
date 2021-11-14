@@ -130,3 +130,4 @@ dmypy.json
 
 data/credit/*
 data/cifar-10-batches-py/*
+data/tabular_playground/*
