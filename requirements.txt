@@ -12,6 +12,7 @@ Babel @ file:///home/conda/feedstock_root/build_artifacts/babel_1619719576210/wo
 backcall @ file:///home/conda/feedstock_root/build_artifacts/backcall_1592338393461/work
 backports.functools-lru-cache @ file:///home/conda/feedstock_root/build_artifacts/backports.functools_lru_cache_1618230623929/work
 beautifulsoup4 @ file:///home/conda/feedstock_root/build_artifacts/beautifulsoup4_1631087867185/work
+bhtsne==0.1.9
 bleach @ file:///home/conda/feedstock_root/build_artifacts/bleach_1629908509068/work
 blinker==1.4
 bokeh @ file:///home/conda/feedstock_root/build_artifacts/bokeh_1634387995307/work
