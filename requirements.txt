@@ -147,6 +147,7 @@ pydantic==1.8.2
 Pygments @ file:///home/conda/feedstock_root/build_artifacts/pygments_1629119114968/work
 PyJWT @ file:///home/conda/feedstock_root/build_artifacts/pyjwt_1634405536383/work
 PyMeeus==0.5.11
+pynndescent==0.5.5
 pyOpenSSL @ file:///home/conda/feedstock_root/build_artifacts/pyopenssl_1633192417276/work
 pyparsing==2.4.7
 pyperclip==1.8.2
@@ -211,6 +212,7 @@ traitlets @ file:///home/conda/feedstock_root/build_artifacts/traitlets_16304235
 typing-extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1632313171031/work
 tzdata @ file:///home/conda/feedstock_root/build_artifacts/python-tzdata_1635187324762/work
 tzlocal @ file:///home/conda/feedstock_root/build_artifacts/tzlocal_1635274162557/work
+umap-learn==0.5.2
 urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1632350318291/work
 visions==0.7.4
 wcwidth @ file:///home/conda/feedstock_root/build_artifacts/wcwidth_1600965781394/work
