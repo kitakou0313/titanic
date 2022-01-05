@@ -219,6 +219,7 @@ wcwidth @ file:///home/conda/feedstock_root/build_artifacts/wcwidth_160096578139
 webencodings==0.5.1
 websocket-client @ file:///home/conda/feedstock_root/build_artifacts/websocket-client_1610127648202/work
 widgetsnbextension @ file:///home/conda/feedstock_root/build_artifacts/widgetsnbextension_1605475529901/work
+xgboost==1.5.1
 xlrd @ file:///home/conda/feedstock_root/build_artifacts/xlrd_1610224409810/work
 zict==2.0.0
 zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1633302054558/work
